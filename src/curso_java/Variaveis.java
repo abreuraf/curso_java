@@ -1,3 +1,4 @@
+package curso_java;
 public class Variaveis {
     public static void main(String[] args) {
         int age = 33;
